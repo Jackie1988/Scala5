@@ -7,7 +7,7 @@ import scala.io.StdIn.readLine
 /**
   * Created by Administrator on 14/06/2016.
   */
-object warehouseOrders {
+object warehouseOrders2 {
 
 
 
@@ -72,7 +72,7 @@ object warehouseOrders {
   }
 
 
-  def updateOrderStatus(ordId: Int){
+  /*def updateOrderStatus(ordId: Int){
 
     for(i <- 0 to orders1.length - 1) {
       if(orders1(i).orderId.toString == orderNo) {
@@ -81,7 +81,7 @@ object warehouseOrders {
         println("There is currently no order with that ID")
       }
     }
-  }
+  }*/
 
 
 
