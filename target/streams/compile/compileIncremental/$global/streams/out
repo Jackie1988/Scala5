@@ -1,0 +1,48 @@
+[0m[[0mdebug[0m] [0mInvalidating C:\Program Files\Java\jre1.8.0_91\lib\rt.jar: stamp changed from lastModified(1465815979810) to lastModified(1465848844392)[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Administrator\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.92-R10.jar: class scalafx.application.JFXApp$ now provided by C:\Users\acer\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.92-R10.jar[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(E:\QA Consulting\Scala\Scala2\src\main\scala\hello\addressbook.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\MultiDimensionalArray.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\Product.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\Customer.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders2.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(E:\QA Consulting\Scala\Scala2\target\scala-2.11\classes\hello\HelloSBT$delayedInit$body.class, E:\QA Consulting\Scala\Scala2\target\scala-2.11\classes\hello\HelloSBT$$anon$2$$anon$3.class, E:\QA Consulting\Scala\Scala2\target\scala-2.11\classes\hello\HelloSBT$$anon$2.class, E:\QA Consulting\Scala\Scala2\target\scala-2.11\classes\hello\HelloSBT$.class, E:\QA Consulting\Scala\Scala2\target\scala-2.11\classes\hello\HelloSBT$$anon$2$$anon$3$$anon$1.class, E:\QA Consulting\Scala\Scala2\target\scala-2.11\classes\hello\HelloSBT.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(C:\Program Files\Java\jre1.8.0_91\lib\rt.jar, C:\Users\Administrator\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.92-R10.jar)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(E:\QA Consulting\Scala\Scala2\src\main\scala\hello\addressbook.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\MultiDimensionalArray.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\Product.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\Customer.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders2.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(E:\QA Consulting\Scala\Scala2\src\main\scala\hello\HelloSBT.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(E:\QA Consulting\Scala\Scala2\src\main\scala\hello\HelloSBT.scala)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(E:\QA Consulting\Scala\Scala2\src\main\scala\hello\addressbook.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\MultiDimensionalArray.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\Product.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\Customer.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\HelloSBT.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders.scala, E:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders2.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 7 Scala sources to E:\QA Consulting\Scala\Scala2\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1bc9d1b2, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_91\lib\resources.jar;C:\Program Files\Java\jre1.8.0_91\lib\rt.jar;C:\Program Files\Java\jre1.8.0_91\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_91\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_91\lib\jce.jar;C:\Program Files\Java\jre1.8.0_91\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_91\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_91\classes;C:\Users\acer\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	E:\QA Consulting\Scala\Scala2\target\scala-2.11\classes;E:\QA Consulting\Scala\Scala2\null\jre\lib\jfxrt.jar;C:\Users\acer\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.92-R10.jar;C:\Users\acer\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar[0m
+[0m[[31merror[0m] [0mE:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders.scala:77: not found: value orders1[0m
+[0m[[31merror[0m] [0m    for(i <- 0 to orders1.length - 1) {[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0mE:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders.scala:78: not found: value orders1[0m
+[0m[[31merror[0m] [0m      if(orders1(i).orderId.toString == orderNo) {[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mE:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders.scala:78: not found: value orderNo[0m
+[0m[[31merror[0m] [0m      if(orders1(i).orderId.toString == orderNo) {[0m
+[0m[[31merror[0m] [0m                                        ^[0m
+[0m[[31merror[0m] [0mE:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders2.scala:77: not found: value orders1[0m
+[0m[[31merror[0m] [0m    for(i <- 0 to orders1.length - 1) {[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0mE:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders2.scala:78: not found: value orders1[0m
+[0m[[31merror[0m] [0m      if(orders1(i).orderId.toString == orderNo) {[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mE:\QA Consulting\Scala\Scala2\src\main\scala\hello\warehouseorders2.scala:78: not found: value orderNo[0m
+[0m[[31merror[0m] [0m      if(orders1(i).orderId.toString == orderNo) {[0m
+[0m[[31merror[0m] [0m                                        ^[0m
+[0m[[31merror[0m] [0m6 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
