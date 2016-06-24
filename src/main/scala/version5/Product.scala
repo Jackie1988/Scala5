@@ -20,4 +20,38 @@ object Product {
   def findProduct(prodId:Int) = products.find(_.prodId == prodId)
 
 
+
+  def removeStock(prodId:Int, quantity:Int) {
+    for (prod <- products){
+
+        if (prodId == prod.prodId){
+
+          prod.quantity -= quantity
+        }
+      println ("ProductID: " + prod.prodId + ", Name: " + prod.name + ", Quantity: " + prod.quantity)
+    }
+  }
+
+
+  def locateWarehouseProduct(prodId:Int){
+    //input product id and then return an aisle/shelve number
+    for (i <- products) {
+      if (prodId == i.prodId) {
+        val prodLocation = i.location
+
+        print (prodLocation)
+      }
+
+    }
+  }
+
+
+
+
+
+
+
+
+
+
 }
